@@ -11,7 +11,7 @@ Stealth Health AI Agent is designed to simulate a personalized health coach. The
 ### 🚀 Live Demo
 
 **Streamlit App:**
-https://stealth-health-ai-agent-qv84dd6fsmh4wrhureqd4z.streamlit.app/
+https://stealth-health-ai-agent-coach-2iwzqlebxhr67mkcjf2cdm.streamlit.app/
 ### 📂 GitHub Repository
 
 https://github.com/shaswatgithub/Stealth-Health-AI-Agent
